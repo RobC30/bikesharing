@@ -11,7 +11,7 @@ CitiBike, a bikesharing platform, is a popular mode of transportation for New Yo
 
 __CitiBike Users__
 
-<img src = https://raw.githubusercontent.com/RobC30/bikesharing/main/Resources/images/users.png width = 500 >
+<img src = https://raw.githubusercontent.com/RobC30/bikesharing/main/Resources/images/users.png width = 600 >
 </div>
 <br>
 
@@ -23,7 +23,7 @@ According to its publicly published data, Citibike is being used heavily in busi
 
 __Checkout Times__
 
-<img src = https://raw.githubusercontent.com/RobC30/bikesharing/main/Resources/images/checkout.png width = 500 >
+<img src = https://raw.githubusercontent.com/RobC30/bikesharing/main/Resources/images/checkout.png width = 600 >
 </div>
 
 <br>
@@ -37,7 +37,7 @@ In this section, we have a snapshot of usage durations of all rides taken in Aug
 
 __Weekday Usage__
 
-<img src = https://raw.githubusercontent.com/RobC30/bikesharing/main/Resources/images/weekday_usage.png width = 500 >
+<img src = https://raw.githubusercontent.com/RobC30/bikesharing/main/Resources/images/weekday_usage.png width = 600 >
 </div>
 <br>
 
@@ -52,7 +52,7 @@ We then separated each bike usage and sectioned them into the different days of 
 
 __Maintenance__
 
-<img src = https://raw.githubusercontent.com/RobC30/bikesharing/main/Resources/images/maintenance.png width = 500 >
+<img src = https://raw.githubusercontent.com/RobC30/bikesharing/main/Resources/images/maintenance.png width = 600 >
 </div>
 <br>
 
